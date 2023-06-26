@@ -1,6 +1,6 @@
 # UiO-IN3050: Introduction to Artificial Intelligence and Machine Learning
 
-This cource covers introductory concepts of AI and ML.  
+This course covers introductory concepts of AI and ML.  
 This includes concepts like:  
 
 - Evolutionary computing
